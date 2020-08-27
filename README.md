@@ -11,3 +11,5 @@ Este é o nosso primeiro commit - Joao
 Este é um teste - Caio
 
 Este é o primeiro commit - Laisy
+
+Deu certo!
